@@ -1,14 +1,25 @@
 <div align="center">
 
-<!-- ANIMATED CODING BANNER -->
+<!-- ANIMATED CYBERPUNK HEADER -->
 <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Animated coding banner"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:16003B,45:6A00F5,75:00D9FF,100:050505&height=220&section=header&text=KAUSHAL%20JETHWA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPMENT%20%7C%20DSA%20%7C%20BUILDING&descSize=15&descAlignY=60&descColor=00E5FF" width="100%" alt="Neon animated profile header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00F5,100:00E5FF&height=160&section=header&text=KAUSHAL%20JETHWA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;C%2B%2B+%7C+Java+%7C+Data+Structures;Turning+ideas+into+working+projects;Always+learning.+Always+building." alt="Animated developer text"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;C%2B%2B+%7C+Java+%7C+DSA;Learning+Software+Engineering;Building+Projects%2C+One+Step+at+a+Time" alt="Typing animation"/>
+<br/><br/>
+
+<a href="https://kpjethwa07-stack.github.io/protfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6A00F5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/kaushal-jethwa-386928378/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/kpjethwa07-stack">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:kpjethwa07@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -18,9 +29,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science student at Parul University.
-- 💻 Interested in software engineering and problem-solving.
+- 💻 Interested in software engineering, problem-solving, and backend development.
 - 🧠 Practising Data Structures and Algorithms using C++.
-- 🔧 Learning by building and improving practical projects.
+- 🔧 Building projects to improve practical development skills.
 - 🎯 Working towards a career as a Software Development Engineer.
 
 ## ⚡ Tech Stack
@@ -73,49 +84,49 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 <div align="center">
 
 <a href="https://kpjethwa07-stack.github.io/protfolio/">
-  <img src="https://img.shields.io/badge/🚀_MY_PORTFOLIO-6A00F5?style=for-the-badge&labelColor=111111" alt="Visit portfolio"/>
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-6A00F5?style=for-the-badge&labelColor=101010" alt="Explore portfolio"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/kaushal-jethwa-386928378/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/kpjethwa07-stack">
-  <img src="https://img.shields.io/badge/GITHUB-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <a href="mailto:kpjethwa07@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://leetcode.com/u/KaushalJethwa/">
-  <img src="https://img.shields.io/badge/LEETCODE-Practising_DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/PRACTISING-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ANIMATED FOOTER -->
+<!-- ANIMATED NEON FOOTER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:15102D,100:003B49&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6A00F5,100:FF00AA&height=4&section=footer" width="100%" alt="Neon divider"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Think.+Code.+Debug.+Repeat.;Turning+ideas+into+working+software.;Always+learning.+Always+building." alt="Animated footer message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM.STATUS%3A+LEARNING;while(alive)+%7B+keepBuilding()%3B+%7D;Code.+Test.+Debug.+Repeat.;End+of+file...+not+the+journey." alt="Animated coding footer"/>
 
 <br/><br/>
 
 ### `> BUILD • LEARN • IMPROVE`
 
-<sub>One problem at a time. One project at a time.</sub>
+<sub>Building the future — one line of code at a time.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00F5,100:050505&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:00D9FF,65:6A00F5,100:050505&height=150&section=footer&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
 </div>
