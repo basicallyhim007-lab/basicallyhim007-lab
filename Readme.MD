@@ -67,7 +67,7 @@ A TypeScript-based project focused on interactive, data-driven web experiences. 
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/kpjethwa07-stack">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kpjethwa07-stack&layout=compact&theme=default&hide_border=true" alt="Most used languages on GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kpjethwa07-stack&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Most used languages on GitHub" />
 </a>
 
 </div>
