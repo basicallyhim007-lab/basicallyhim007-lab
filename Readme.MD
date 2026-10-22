@@ -1,89 +1,84 @@
-
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:6C5CE7,60:00D9FF,100:0D1117&height=180&section=header&text=KAUSHAL%20JETHWA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=15&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00F5,100:00E5FF&height=200&section=header&text=KAUSHAL%20JETHWA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Development&descAlignY=55&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Building+practical+software.;Solving+problems+with+C%2B%2B+%26+Java.;Learning.+Building.+Improving." alt="Animated introduction" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Java+%7C+Python+Basics;Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kaushal-jethwa-386928378/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpjethwa07-stack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C5CE7)](https://kpjethwa07-stack.github.io/protfolio/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kpjethwa07@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/kaushal-jethwa-386928378/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/kpjethwa07-stack">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://kpjethwa07-stack.github.io/protfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6A00F5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:kpjethwa07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Computer Science student at Parul University focused on software engineering, data structures and algorithms, and building practical applications.
+- 🎓 B.Tech Computer Science student at Parul University.
+- 💻 Interested in software engineering, problem-solving, and backend development.
+- 🧠 Practising Data Structures and Algorithms using C++.
+- 🔧 Building projects to strengthen my practical development skills.
+- 🎯 Working towards becoming a Software Development Engineer.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,flask,sqlite,git,github&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,git,github&theme=dark" alt="Technology icons" />
+## 🚀 Featured Projects
 
-</div>
+### 🛡️ Bastion — Security Simulation
+An educational security simulation built with Flask and SQLite, designed to explore security-related concepts and application behaviour.
 
-**Core concepts:** Data Structures & Algorithms · Object-Oriented Programming · Operating Systems
+- **Technologies:** Python, Flask, SQLite
+- [View Source Code](https://github.com/kpjethwa07-stack/Bastion)
+- [Watch Project Demo](https://www.youtube.com/watch?v=DMimN9Z5P9E)
 
-## Projects
+### 🔎 TraceBack — Lost and Found
+A web project designed to help people report and find lost items.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **Technologies:** HTML, CSS, TypeScript
+- [View Repository](https://github.com/kpjethwa07-stack/TraceBack)
 
-### [Bastion](https://github.com/code50/228874908/tree/main/bastion)
+### 🤖 Arduino Obstacle Alert System
+An Arduino-based project that detects nearby obstacles using an ultrasonic sensor and provides alerts.
 
-An educational security simulation built with Flask and SQLite as my CS50x final project.
+- **Technologies:** Arduino UNO, C++, HC-SR04, LED, Buzzer
+- [View Project Demo](https://stellular-yeot-f05e3d.netlify.app/)
 
-**Technologies:** Python, Flask, SQLite
+## 🧩 Coding Profiles
 
-[View Source Code](https://github.com/code50/228874908/tree/main/bastion) · [Watch Demo](https://www.youtube.com/watch?v=DMimN9Z5P9E)
-
-</td>
-<td width="50%" valign="top">
-
-### [TraceBack](https://github.com/kpjethwa07-stack/TraceBack)
-
-A lost-and-found platform designed to help users report and recover missing items.
-
-**Technologies:** React, Tailwind CSS, JavaScript
-
-[View Repository](https://github.com/kpjethwa07-stack/TraceBack)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [Arduino Obstacle Alert System](https://stellular-yeot-f05e3d.netlify.app/)
-
-A proximity detection system using an ultrasonic sensor, LED, and buzzer to alert users to nearby obstacles.
-
-**Technologies:** Arduino, C++, HC-SR04
-
-[View Project Demo](https://stellular-yeot-f05e3d.netlify.app/)
-
-</td>
-</tr>
-</table>
-
-## 🎮 Take a Break
-
-<div align="center">
-
-<a href="https://playsnake.org/">
-  <img src="https://img.shields.io/badge/▶_PLAY_SNAKE-0D1117?style=for-the-badge&logo=neovim&logoColor=00D9FF&labelColor=0D1117&color=6C5CE7" alt="Play Snake" />
+<p align="left">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Practising%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+<a href="https://github.com/kpjethwa07-stack">
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-<p><i>A quick game between coding sessions.</i></p>
-
-</div>
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C5CE7,100:00D9FF&height=100&section=footer" />
+### `while (learning) { keepBuilding(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00F5,100:050505&height=100&section=footer" width="100%" />
 
 </div>
+```
