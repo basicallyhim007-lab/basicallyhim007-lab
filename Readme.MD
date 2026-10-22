@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00F5,100:00E5FF&height=200&section=header&text=KAUSHAL%20JETHWA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Software%20Development&descAlignY=55&descSize=16" width="100%" />
@@ -81,4 +80,3 @@ An Arduino-based project that detects nearby obstacles using an ultrasonic senso
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00F5,100:050505&height=100&section=footer" width="100%" />
 
 </div>
-```
