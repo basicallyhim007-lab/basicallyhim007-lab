@@ -70,11 +70,15 @@ A proximity detection system using an ultrasonic sensor, LED, and buzzer to aler
 </tr>
 </table>
 
-## Current Focus
+## 🎮 Take a Break
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=600&height=40&lines=Data+Structures+%26+Algorithms;Software+Engineering;Building+Practical+Projects;Preparing+for+SDE+Internships" alt="Animated development focus" />
+<a href="https://playsnake.org/">
+  <img src="https://img.shields.io/badge/▶_PLAY_SNAKE-0D1117?style=for-the-badge&logo=neovim&logoColor=00D9FF&labelColor=0D1117&color=6C5CE7" alt="Play Snake" />
+</a>
+
+<p><i>A quick game between coding sessions.</i></p>
 
 </div>
 
